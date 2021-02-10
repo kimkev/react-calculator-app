@@ -26,7 +26,7 @@ function App() {
 
 
       <footer className="footer">
-        <a href="https://kimkev.github.io/ReactPage.html" target="_self">Back</a>
+        <a href="https://kimkev.github.io/assets/html/ReactPage.html" target="_self">Back</a>
       </footer>
     </div>
   );
